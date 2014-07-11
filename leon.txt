@@ -1,3 +1,4 @@
 1...2...3
 line 2 deleted by girl
-789
+456
+line 3 deleted by boy
